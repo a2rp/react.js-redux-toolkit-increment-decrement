@@ -1,3 +1,7 @@
+![image](https://github.com/a2rp/react.js-redux-toolkit-increment-decrement/assets/5670738/07a11464-4fba-4af3-b086-2e659809829b)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
